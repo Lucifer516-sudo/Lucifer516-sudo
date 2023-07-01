@@ -3,13 +3,12 @@
 <!--
 **Lucifer516-sudo/Lucifer516-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on None
-- 🤔 I’m looking for help with None
-- 💬 Ask me about None
-- 📫 How to reach me: None
-- 😄 Pronouns: None
-- ⚡ Fun fact: I'm still a teen
+- 🔭 I’m currently working on a Personal Project ...
+- 🌱 I’m currently learning about anything that I see ...
+- 🤔 I’m looking for help with Designing an UI for an simple app that I am making for a personal use ...
+- 💬 Ask me about Python,in General ...
+- 📫 How to reach me: <b>NO WAY</b>
+- 😄 Pronouns: <b>😅</b>
+
+- ⚡ Fun fact: I'm still a teenage nerd 🤓
